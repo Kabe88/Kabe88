@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - In my free time, I repair and mod retro gaming consoles
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-andersson88/)
+- You can reach me and find more information about me on my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-andersson88/)
 
 ---
 
