@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### About Me :
 
-- I have a burning passion for everything IT-related. Both hardware and software.
+- I have a passion for everything IT-related. Both hardware and software.
 
 - I've studied system development and worked in the industry for 9 years
 
